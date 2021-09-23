@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div class='test'>
-		안녕하세요
+		안녕하세요 eclipse push test 입니다.
 	</div>
 </body>
 <script type="text/javascript">
