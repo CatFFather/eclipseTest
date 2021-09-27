@@ -17,7 +17,7 @@
 <script type="text/javascript">
 	
 	$(()=>{
-		console.log('한글 테스트')	
+		console.log('한글 테스트 master')	
 		$('.test').css("fontSize",'36px')
 	})
 </script>
